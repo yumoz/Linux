@@ -1,3 +1,1 @@
-# linux
-This is a open place for everyone.
-Linux学习code
+Linux学习代码，共享内存，进程通信及嵌入式实验代码。
