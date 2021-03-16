@@ -4,7 +4,7 @@
 
 > 联系人：yumoz
 >
-> 联系方式：zealouszxl@163.com 或者 1440739448@qq.com 
+> 联系方式：zealouszxl@163.com or 1440739448@qq.com 
 
 ## 内容介绍
 
